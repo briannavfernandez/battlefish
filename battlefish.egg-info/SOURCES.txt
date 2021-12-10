@@ -1,0 +1,6 @@
+setup.py
+battleship.egg-info/PKG-INFO
+battleship.egg-info/SOURCES.txt
+battleship.egg-info/dependency_links.txt
+battleship.egg-info/requires.txt
+battleship.egg-info/top_level.txt

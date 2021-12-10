@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: battleship
+Version: 0.1
+Summary: Allows the user to play battleship against the computer
+Home-page: UNKNOWN
+Author: Brianna Fernandez
+Author-email: brianna.fernandez@yale.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Intended Audience :: Gaming/Entertainment
+Classifier: Operating System :: OS Independent
+Classifier: License :: MIT License
+Requires-Python: >=3.6
